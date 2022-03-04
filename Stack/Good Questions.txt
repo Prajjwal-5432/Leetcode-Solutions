@@ -1,2 +1,5 @@
 //Find maximum of minimum for every window size in a given array
 //Link: https://www.geeksforgeeks.org/find-the-maximum-of-minimums-for-every-window-size-in-a-given-array/
+
+//Range Queries for Longest Correct Bracket Subsequence Set
+//Link: https://www.geeksforgeeks.org/range-queries-longest-correct-bracket-subsequence-set-2/
