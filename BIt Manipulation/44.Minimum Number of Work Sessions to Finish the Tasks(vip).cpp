@@ -30,6 +30,7 @@ public:
     
     int minSessions(vector<int>& tasks, int sessionTime) {
         n = tasks.size();
+        sort(tasks.begin(), tasks.end());
         this->sessionTime = sessionTime;
         this->tasks = tasks;
         memset(dp, -1, sizeof(dp));
