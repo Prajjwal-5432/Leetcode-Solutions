@@ -23,6 +23,7 @@ public:
             }
         }
     }
+    
     int colToMask(vector<int> &v) {
         int mask = 0;
         
