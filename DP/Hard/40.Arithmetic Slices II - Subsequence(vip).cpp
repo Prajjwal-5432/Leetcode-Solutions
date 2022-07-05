@@ -1,4 +1,5 @@
 //Link: https://leetcode.com/problems/arithmetic-slices-ii-subsequence/
+//Refer to the map solution too
 
 struct mhash {
     static uint64_t splitmix64(uint64_t x) {
