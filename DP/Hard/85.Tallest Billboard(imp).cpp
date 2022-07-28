@@ -18,7 +18,7 @@ public:
                     dp[i + 1][j] = 1;
                     mx[i + 1][j] = max(mx[i + 1][j], mx[i][j + rods[i]]);
                 }
-                if(j - rods[i] >= 0 and dp[i][j]) {
+                if(dp[i][j]) {
                     dp[i + 1][j] = 1;
                     mx[i + 1][j] = max(mx[i + 1][j], mx[i][j]);
                 }
