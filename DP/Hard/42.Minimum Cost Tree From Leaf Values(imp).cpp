@@ -1,4 +1,4 @@
-//Link: https://leetcode.com/problems/minimum-cost-tree-from-leaf-
+//Link: https://leetcode.com/problems/minimum-cost-tree-from-leaf-values/
 
 class Solution {
 public:
